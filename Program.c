@@ -8,13 +8,13 @@ int main()
     scanf("%d",&n2);
     n3=n1+n2;
     int a[n1],b[n2],c[n3];
-    printf("\nEnter the elements of first array \n");
+    printf("\n Enter the elements of first array \n");
      for(int i=0;i<n1;i++)  
     {
        scanf("%d",&a[i]);
     }
     
-    printf("\nEnter the elements of second array \n");
+    printf("\n Enter the element of second array \n");
      for(int j=0;j<n2;j++)  
     {
        scanf("%d",&b[j]);
