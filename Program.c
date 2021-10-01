@@ -2,9 +2,9 @@
 int main()
 {
     int n1,n2,n3;   
-    printf("\nEnter the size of first array: ");
+    printf("\n Enter the size of first array: ");
     scanf("%d",&n1);
-    printf("\nEnter the size of second array: ");
+    printf("\n Enter the size of second array: ");
     scanf("%d",&n2);
     n3=n1+n2;
     int a[n1],b[n2],c[n3];
